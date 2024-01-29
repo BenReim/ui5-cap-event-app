@@ -1,9 +1,6 @@
 {
 	"compilerOptions": {
-		"typeRoots": [
-			"../../node_modules/@sapui5/types",
-			"../../node_modules/@types"
-		],
+		"types": ["@sapui5/types"],
 		"target": "ES2017",
 		"lib": [
 			"ES2017",
